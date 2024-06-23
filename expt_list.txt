@@ -1,0 +1,5 @@
+(Code done) Experiment 4: Implement encoding digital signals using i)NRZ ii)Manchester iii)Differential Manchester Scheme.
+(Code done) Experiment 5: Implement framing methods like i)Bit Stuffing ii)Byte Stuffing.
+(Code done) Experiment 6: Implement error detection mechanism using i)Checksum ii)CRC.
+Experiment 7: Implement stop and wait protocol using interprocess communication (one for transmitter and another for receiver).
+(Code done) Experiment 12: Implement interprocess communication in JAVA using Socket Programming.
